@@ -1,0 +1,56 @@
+[
+  {
+    "id": "all",
+    "name": "الكل",
+    "slug": "all",
+    "productCount": 216
+  },
+  {
+    "id": "medicines",
+    "name": "الأدوية والعلاجات",
+    "slug": "medicines",
+    "productCount": 120
+  },
+  {
+    "id": "skincare",
+    "name": "العناية بالبشرة",
+    "slug": "skincare",
+    "productCount": 85
+  },
+  {
+    "id": "haircare",
+    "name": "العناية بالشعر",
+    "slug": "haircare",
+    "productCount": 64
+  },
+  {
+    "id": "babycare",
+    "name": "العناية بالأطفال",
+    "slug": "babycare",
+    "productCount": 42
+  },
+  {
+    "id": "personalcare",
+    "name": "العناية الشخصية",
+    "slug": "personalcare",
+    "productCount": 78
+  },
+  {
+    "id": "bodycare",
+    "name": "العناية بالجسم",
+    "slug": "bodycare",
+    "productCount": 50
+  },
+  {
+    "id": "vitamins",
+    "name": "الفيتامينات والمكملات",
+    "slug": "vitamins",
+    "productCount": 90
+  },
+  {
+    "id": "devices",
+    "name": "الأجهزة والمستلزمات الطبية",
+    "slug": "devices",
+    "productCount": 35
+  }
+]

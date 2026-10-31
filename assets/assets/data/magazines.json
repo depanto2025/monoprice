@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fd448614-1615-4be6-b2e3-1f3ac216d689",
+    "title": "عروض وايتس الوردي",
+    "description": "عروض وايتس الوردي",
+    "pharmacyCode": "whites",
+    "validFrom": "2026-10-25",
+    "validUntil": "2026-11-07",
+    "coverImageUrl": "/media/magazines/covers/8ef48dda60b54b158743b76c3588ae14.webp",
+    "pdfUrl": "/media/magazines/pdfs/a17f4f254e804944abc41c6265bb2bcf.pdf",
+    "displayOrder": 0
+  },
+  {
+    "id": "6df42276-1f3a-4152-96cb-4c67bbe5f70c",
+    "title": "أنت الدواء",
+    "description": "أنت الدواء",
+    "pharmacyCode": "aldawaa",
+    "validFrom": "2026-10-24",
+    "validUntil": "2026-11-07",
+    "coverImageUrl": "/media/magazines/covers/662db514e944418a8aa2fd5ca97c2f52.webp",
+    "pdfUrl": "/media/magazines/pdfs/fdf25fa472d64a32915ef5fcdfcf1ccc.pdf",
+    "displayOrder": 0
+  },
+  {
+    "id": "894d2bcd-aa61-43b1-b271-5c1b15bd14e7",
+    "title": "عروض النهدي",
+    "description": "عروض النهدي",
+    "pharmacyCode": "nahdi",
+    "validFrom": "2026-10-24",
+    "validUntil": "2026-11-07",
+    "coverImageUrl": "https://api.se-7en.com/media/magazines/covers/4a48f3de0c644c05b42beb44aecdca2a.webp",
+    "pdfUrl": "/media/magazines/pdfs/6cb3253aa2524abe93fd45ac6ce23f2d.pdf",
+    "displayOrder": 0
+  },
+  {
+    "id": "8ea1f597-a81a-4239-a79d-fff6016350da",
+    "title": "أكتوبر الوردي",
+    "description": null,
+    "pharmacyCode": "united",
+    "validFrom": "2026-10-21",
+    "validUntil": "2026-11-05",
+    "coverImageUrl": "/media/magazines/covers/2b80e206441d42cfaf828f892ace9bc1.webp",
+    "pdfUrl": "/media/magazines/pdfs/9c1189de32254deb965fd49a5a18188b.pdf",
+    "displayOrder": 0
+  },
+  {
+    "id": "c5a75549-e90f-4dd1-8db3-f080f60d23d5",
+    "title": "صحتك بالدنيا",
+    "description": null,
+    "pharmacyCode": "united",
+    "validFrom": "2026-10-21",
+    "validUntil": "2026-11-05",
+    "coverImageUrl": "/media/magazines/covers/32dfaf6a06e4447899c4fb41db51e477.webp",
+    "pdfUrl": "/media/magazines/pdfs/e6c3c261e7a945df9586b140110bdca7.pdf",
+    "displayOrder": 0
+  },
+  {
+    "id": "ef9c29b3-50f6-48a4-aede-9fcb72b6e061",
+    "title": "عروض صيدلية المجتمع",
+    "description": "أكتوبر الوردي",
+    "pharmacyCode": "almujtama",
+    "validFrom": "2026-10-18",
+    "validUntil": "2026-11-05",
+    "coverImageUrl": "/media/magazines/covers/45cac308cab84c05a8598054f7443b54.webp",
+    "pdfUrl": "/media/magazines/pdfs/b7005b8daa8741d4bdeb7a9183cc4076.pdf",
+    "displayOrder": 0
+  }
+]
